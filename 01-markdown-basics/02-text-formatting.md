@@ -28,7 +28,7 @@ Strikethrough uses two tildes. ``~~Strikethrough~~``.
 
 Markdown | HTML | Rendered Output
 :-- | :-- | :--
-echo `hello-world` | echo <code>hello-world</code> | hello-world
+Type \`cd\` to change directory. | Type \<code>cd\</code> to change directory. | Type `cd` to change directory.
 
 # Blockquote
 # Paragraph

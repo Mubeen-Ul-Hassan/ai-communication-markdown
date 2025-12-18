@@ -1,4 +1,4 @@
-# HEADING
+# Headings
 You can create heading using HTML element `<h1>` through `<h6> `easily or by prepending the text you want to be in that element by the number of hashes(#).
 
 ```# Heading 1 <h1>

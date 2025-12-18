@@ -27,6 +27,7 @@ Strikethrough uses two tildes. ``~~Strikethrough~~``.
 > To denote a word or phrase as code, enclose it in backticks (`).
 
 Markdown | HTML | Rendered Output
+:-- | :-- | :--
 echo `hello-world` | echo <code>hello-world</code> | hello-world
 
 # Blockquote

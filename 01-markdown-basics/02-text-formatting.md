@@ -8,19 +8,19 @@ Emphasis, aka italics, with `*asterisks*` or `_underscores_`.
 
 Strong emphasis, aka bold, with `**asterisks**` or `__underscores__`.
 
-**This is text is bold.**
+> **This is text is bold.**
 
 # Combined
 
 Combined emphasis with `***asterisks***` and `*__underscores__*`.
 
-***This is text is both bold and italics.***
+> ***This is text is both bold and italics.***
 
 # Strikethrough
 
 Strikethrough uses two tildes. ``~~Strikethrough~~``.
 
-~~This is text is strikethrough.~~
+> ~~This is text is strikethrough.~~
 
 # Code
 # Blockquote

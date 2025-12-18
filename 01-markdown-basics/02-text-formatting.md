@@ -2,7 +2,7 @@
 
 Emphasis, aka italics, with `*asterisks*` or `_underscores_`.
 
-*This is text is italics.*
+>> *This is text is italics.*
 
 # Strong
 

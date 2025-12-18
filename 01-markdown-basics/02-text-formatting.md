@@ -32,4 +32,11 @@ To create paragraphs, use a blank line to separate one or more lines of text.
 
 Markdown | HTML | Output
 :-- | :-- | :--
-I really like using Markdown.| `<p>I really like using Markdown.</p>` | I really like using Markdown.
+I really like using Markdown.
+I will use it for all my documents.
+| 
+`<p>I really like using Markdown.</p>` 
+`<p> I will use it for all my documents. </p>`
+|
+I really like using Markdown.
+I will use it for all my documents.

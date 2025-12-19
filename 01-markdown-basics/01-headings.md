@@ -1,7 +1,8 @@
 # Headings
+
 You can create heading using HTML element `<h1>` through `<h6> `easily or by prepending the text you want to be in that element by the number of hashes(#).
 
-```
+```markdown
 # Heading 1 <h1>
 ## Heading 2 <h2>
 ### Heading 3 <h3>
